@@ -1,0 +1,2 @@
+You called the dog.
+You told the dog to spin around through the left side.
