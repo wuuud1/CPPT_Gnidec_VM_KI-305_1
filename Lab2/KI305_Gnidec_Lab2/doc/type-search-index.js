@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"KI305_Gnidec_Lab2","l":"Age"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305_Gnidec_Lab2","l":"Breed"},{"p":"KI305_Gnidec_Lab2","l":"Color"},{"p":"KI305_Gnidec_Lab2","l":"Dog"},{"p":"KI305_Gnidec_Lab2","l":"DogOwner"}];updateSearchResults();
