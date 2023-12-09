@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305_Gnidec_Lab6","l":"Data"},{"p":"KI305_Gnidec_Lab6","l":"HouseholdItem"},{"p":"KI305_Gnidec_Lab6","l":"HouseholdPackage"},{"p":"KI305_Gnidec_Lab6","l":"HouseholdPackageDriver"}];updateSearchResults();
